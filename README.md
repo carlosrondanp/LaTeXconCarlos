@@ -4,7 +4,7 @@
 </em></p>
 
 [![Linkedin: CarlosRondan](https://img.shields.io/badge/-CarlosRondan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosrondanp/)](https://www.linkedin.com/in/carlosrondanp/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub carlosrondanp](https://img.shields.io/github/followers/carlosrondanp?label=follow&style=social)](https://github.com/carlosrondanp)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
