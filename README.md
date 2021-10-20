@@ -10,11 +10,16 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco acerca de mi...  
 
 ```LaTeX
-\documentclass{Presentacion}
-\usepackage{spanish}[babel]
-
-\author{Rondan Poma, Carlos Enrique}
-\
+\documentclass[localFont,alternative]{documentMETADATA}
+\name{\Huge Carlos Enrique Rondan Poma}
+\tagline{\Large  Estudiante | Ingeniería Industrial - UNI}
+\socialinfo{
+	\linkedin{carlosrondanp}\\
+	\email{carlos.rondan.p@uni.pe}\\
+	\github{carlosrondanp}\\
+	\address{Lima, Perú}
+	\smartphone{988-811-993}
+}
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me encanta conocer a nuevas personas</b> así que, si deseas <b>saludar, estaré contento de conocerte!</b> :)</em>
