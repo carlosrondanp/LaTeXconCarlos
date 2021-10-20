@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.13)  20 OCT 2021 12:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.13)  20 OCT 2021 12:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**MiPrimerDocumento_LaTex.tex
-(./MiPrimerDocumento_LaTex.tex
+**MiPrimerDocumento_LaTeX.tex
+(./MiPrimerDocumento_LaTeX.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-03-06>
 (c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
@@ -262,11 +262,11 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \Gm@layoutvoffset=\dimen163
 \Gm@dimlist=\toks24
 )
-(./MiPrimerDocumento_LaTex.aux
+(./MiPrimerDocumento_LaTeX.aux
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
 )
-\openout1 = `MiPrimerDocumento_LaTex.aux'.
+\openout1 = `MiPrimerDocumento_LaTeX.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
@@ -315,15 +315,15 @@ e
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(72.2698pt, 452.96826pt, 72.2698pt)
-* v-part:(T,H,B)=(72.2698pt, 700.50723pt, 72.2698pt)
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=452.96826pt
-* \textheight=700.50723pt
-* \oddsidemargin=-0.00018pt
-* \evensidemargin=-0.00018pt
-* \topmargin=-37.00018pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -352,26 +352,26 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 18.
 (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-(./MiPrimerDocumento_LaTex.toc
+(./MiPrimerDocumento_LaTeX.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 )
 \tf@toc=\write3
-\openout3 = `MiPrimerDocumento_LaTex.toc'.
+\openout3 = `MiPrimerDocumento_LaTeX.toc'.
 
  [1
 
 {c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] (./
-MiPrimerDocumento_LaTex.aux
+MiPrimerDocumento_LaTeX.aux
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
 ) ) 
 Here is how much of TeX's memory you used:
- 4730 strings out of 480608
- 70335 string characters out of 5907535
- 606764 words of memory out of 5000000
- 20561 multiletter control sequences out of 15000+600000
- 545613 words of font info for 59 fonts, out of 8000000 for 9000
+ 4737 strings out of 480608
+ 70441 string characters out of 5907535
+ 601625 words of memory out of 5000000
+ 20567 multiletter control sequences out of 15000+600000
+ 547159 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  36i,6n,38p,240b,361s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<c:/tex
@@ -382,7 +382,7 @@ e1/public/cm-super/sfbx1440.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/
 cm-super/sfrm0900.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/s
 frm1000.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pf
 b><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on MiPrimerDocumento_LaTex.pdf (4 pages, 134732 bytes).
+Output written on MiPrimerDocumento_LaTeX.pdf (4 pages, 126005 bytes).
 PDF statistics:
  50 PDF objects out of 1000 (max. 8388607)
  35 compressed objects within 1 object stream
