@@ -10,7 +10,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco acerca de mi...  
 
 ```LaTeX
-\documentclass[localFont,alternative]{documentMETADATA}
+\documentclass{documentLaTeXconCarlos}
 \name{\Huge Carlos Enrique Rondan Poma}
 \tagline{\Large  Estudiante | Ingeniería Industrial - UNI}
 \socialinfo{
