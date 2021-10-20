@@ -1,0 +1,7 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Introducción}{1}%
+\contentsline {section}{\numberline {2}Antecedentes}{2}%
+\contentsline {section}{\numberline {3}Metodología}{3}%
+\contentsline {subsection}{\numberline {3.1}CRISP - DM}{3}%
+\contentsline {subsection}{\numberline {3.2}KDD}{3}%
+\contentsline {subsection}{\numberline {3.3}Otras metodologías}{4}%
