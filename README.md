@@ -7,7 +7,7 @@
 [![GitHub carlosrondanp](https://img.shields.io/github/followers/carlosrondanp?label=follow&style=social)](https://github.com/carlosrondanp)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco acerca de mi...  
 
 ```javascript
 const thai = {
@@ -28,4 +28,4 @@ const thai = {
 
 ---
 
-⭐️ From [@Thaiane](https://github.com/Thaiane)
+⭐️ From [@carlosrondanp](https://github.com/carlosrondanp)
