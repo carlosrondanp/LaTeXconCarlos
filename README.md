@@ -10,6 +10,8 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco acerca de mi...  
 
 ```
+\documentclass{Presentacion}
+\usepackage{a}
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me encanta conocer a nuevas personas</b> así que, si deseas <b>saludar, estaré contento de conocerte!</b> :)</em>
