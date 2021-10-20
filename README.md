@@ -3,7 +3,7 @@
 <p><em>Estudiante de ingeniería de la <a href="http://www.uni.edu.pe">Universidad Nacional de Ingeniería</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Practicante del  <a href="https://www.viabcp.com/">BCP</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: CarlosRondan](https://img.shields.io/badge/-CarlosRondan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosrondanp/)](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin: CarlosRondan](https://img.shields.io/badge/-CarlosRondan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosrondanp/)](https://www.linkedin.com/in/carlosrondanp/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 
