@@ -15,7 +15,29 @@
 \title{\LaTeX con Carlos}
 \date{\today}
 
+
+\usepackage{eso-pic}
+
+
 \begin{document}
+%\usepackage{eso-pic}\usepackage{graphicx} --> paquete necesario
+%	\AddToShipoutPictureBG*{%
+%		\AtPageUpperLeft{%
+%			\raisebox{-\height}{%
+%				\includegraphics[width=\paperwidth]{figuras/portada.pdf}%
+%			}%
+%		}
+%	}
+	\begingroup
+	\begin{titlepage}
+		\newgeometry{left=0cm,top=0cm,bottom=0cm, right=0cm}
+		\AddToShipoutPicture*{\put(0,0){\includegraphics[scale=1]{figuras/portada.pdf}}} % pdf de fondo de portada
+		\noindent
+		\vspace{125mm}
+	\end{titlepage}
+	\endgroup
+	
+	
 	\maketitle
 	\begin{center}
 		\rule{15cm}{1pt}
